@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="326" viewBox="0 0 1100 326" fill="none">
+<style>text {font-family:'Segoe UI',Arial,sans-serif} .mono {font-family:Consolas,'Courier New',monospace}</style>
+
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="326" gradientUnits="userSpaceOnUse"><stop stop-color="#11182B"/><stop offset=".55" stop-color="#171833"/><stop offset="1" stop-color="#102738"/></linearGradient>
+ <linearGradient id="accent" x1="0" x2="1100" gradientUnits="userSpaceOnUse"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" stroke="#8797C1" stroke-opacity=".08"/></pattern>
+</defs>
+<rect x="1" y="1" width="1098" height="324" rx="24" fill="url(#bg)" stroke="#303D5D"/>
+<rect x="1" y="1" width="1098" height="324" rx="24" fill="url(#grid)"/>
+<path d="M30 2H1070" stroke="url(#accent)" stroke-width="3"/>
+<rect x="46" y="38" width="38" height="38" rx="11" fill="#A78BFA" fill-opacity=".14" stroke="#A78BFA" stroke-opacity=".4"/>
+<text x="65" y="64" fill="#C4B5FD" font-size="18" font-weight="700" text-anchor="middle">F.</text>
+<text x="100" y="62" class="mono" fill="#A7B6D3" font-size="14" letter-spacing="2">FELIPEJJJJ / DESENVOLVEDOR</text>
+<text x="46" y="150" fill="#F1F5FF" font-size="52" font-weight="700" letter-spacing="-1.4">Felipe Oliveira</text>
+<text x="48" y="188" fill="#CCD7ED" font-size="20">Desenvolvimento web · Dados · Inteligência artificial</text>
+<rect x="48" y="224" width="307" height="37" rx="18.5" fill="#07131F" fill-opacity=".5" stroke="#355069"/>
+<circle cx="67" cy="242.5" r="4" fill="#22D3EE"/>
+<text x="81" y="248" fill="#BAE9F2" font-size="13">Construindo e aprendendo com projetos.</text>
+<g transform="translate(755 80)">
+ <rect width="294" height="167" rx="15" fill="#0B1323" stroke="#36405E"/>
+ <path d="M0 36H294" stroke="#2D3651"/>
+ <circle cx="19" cy="18" r="4" fill="#A78BFA"/><circle cx="34" cy="18" r="4" fill="#5F6E91"/><circle cx="49" cy="18" r="4" fill="#22D3EE"/>
+ <text x="22" y="69" class="mono" fill="#A78BFA" font-size="16">const</text><text x="81" y="69" class="mono" fill="#E6EEFF" font-size="16">foco = {</text>
+ <text x="36" y="99" class="mono" fill="#9CAED0" font-size="15">código:</text><text x="112" y="99" class="mono" fill="#67E8F9" font-size="15">'soluções',</text>
+ <text x="36" y="126" class="mono" fill="#9CAED0" font-size="15">IA:</text><text x="73" y="126" class="mono" fill="#67E8F9" font-size="15">'na prática'</text>
+ <text x="22" y="151" class="mono" fill="#E6EEFF" font-size="16">};</text>
+</g>
+<text x="48" y="300" fill="#8CA0C2" class="mono" font-size="11" letter-spacing="1.5">IFPB / SISTEMAS PARA INTERNET / CONCLUSÃO PREVISTA: 2027</text>
+</svg>
